@@ -1,9 +1,6 @@
 # Instructions for Reproducing Analyses
 **Last Updated: 30 May 2024**
 
-Any difficulties reproducing the analysis, please contact the corresponding author, [Messi H.J. Lee](mailto:hojunlee@wustl.edu). 
-
-
 ## Overview of the Repository Folders (in Alphabetical Order)
 
 * Ablation (General Prompts)
